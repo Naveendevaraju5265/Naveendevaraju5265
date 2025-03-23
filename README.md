@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/db4fc2bc-6746-4dff-9310-90172df5ce95)
 <h1>Hi 👋, I'm Naveen D</h1>
 <h3>Passionate developer with a strong foundation in software development and a proactive approach to learning beyond traditional coursework. Skilled at translating theoretical knowledge into impactful real-world applications. Eager to gain diverse professional experiences and contribute meaningfully to both society and the organization through my expertise.</h3>
 
