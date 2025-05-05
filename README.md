@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/99142401-3a5d-4207-be39-b7a022d2f338)
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/fe9741ab-f888-4568-92cc-a43175e75a25" />
 <h1>Hi 👋, I'm Naveen D</h1>
 <h3>Passionate developer with a strong foundation in software development and a proactive approach to learning beyond traditional coursework. Skilled at translating theoretical knowledge into impactful real-world applications. Eager to gain diverse professional experiences and contribute meaningfully to both society and the organization through my expertise.</h3>
 
